@@ -4,6 +4,7 @@ A bash script that provides a graphical interface for [pass](https://www.passwor
 
 ![demo](https://github.com/user-attachments/assets/7ffaf8e5-b96a-4465-a673-e8b6695b4b31)
 
+
 ## Features
 
 - 📁 Browse password store entries in a clean menu interface
