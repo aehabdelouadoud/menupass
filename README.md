@@ -2,7 +2,7 @@
 
 A bash script that provides a graphical interface for [pass](https://www.passwordstore.org/) (the standard unix password manager) using [bemenu](https://github.com/Cloudef/bemenu). Designed for Wayland/X11 environments with Gruvbox Material theme integration.
 
-![Demo]()
+![demo](https://github.com/user-attachments/assets/7ffaf8e5-b96a-4465-a673-e8b6695b4b31)
 
 ## Features
 
