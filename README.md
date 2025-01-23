@@ -2,7 +2,7 @@
 
 A bash script that provides a graphical interface for [pass](https://www.passwordstore.org/) (the standard unix password manager) using [bemenu](https://github.com/Cloudef/bemenu). Designed for Wayland/X11 environments with Gruvbox Material theme integration.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder+-+Password+Selection+%26+Field+Selection)
+![Demo]()
 
 ## Features
 
@@ -26,7 +26,7 @@ A bash script that provides a graphical interface for [pass](https://www.passwor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pass-menu.git
+   git clone https://github.com/aehabdelouadoud/passmenu.git
    cd pass-menu
    chmod +x pass-menu.sh
    ```
